@@ -1,0 +1,89 @@
+.logo{
+   height: 50px;
+
+}
+
+.btn-success{
+
+    width: 104px;
+height: 33px;
+top: 25px;
+padding: 0px 0px;
+background: #21B573;
+border-radius: 33px;
+}
+
+.top-cont, .navbar{
+
+    background-color: #f0fff0;
+}
+
+
+
+#img-illus{
+
+    height: 350px;
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow:  5px 5px 5px lightgray;
+    background-color: #f8fffb;
+    margin: 10px;
+}
+
+.card:hover{
+
+    background-color: white;
+    
+
+}
+
+.card-img-top{
+
+    height: 120px;
+    width: 90px;
+    padding-top: 20px;
+    
+}
+
+.card-text{
+    color: gray;
+}
+
+.online-courses{
+    text-align:;
+}
+
+.man-img{
+     height: 150px;
+     width: 150px;
+}
+
+.cardImg{
+
+    width: 331px;
+    height: 234px;
+    padding-top: 15px;
+}
+
+.icon{
+
+    width: 25px;
+    height: 25px;
+}
+
+h6{
+    color: gray;
+}
+
+.testi{
+    font-weight: 600;
+    padding-bottom: 70px;
+
+}
+
+li{
+    list-style-type: none;
+}
